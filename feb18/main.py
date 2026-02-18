@@ -1,1 +1,1 @@
-print('Feb 18')
+print('Today is Feb 18')
